@@ -40,7 +40,6 @@ const getCountry = (country) => {
 
 
 inputCountry.addEventListener('change', () => {
-    inputCountry.style.display = 'none';
-    h1.style.display = 'none';
     getCountry(inputCountry.value);
+    inputCountry.value = '';
 })
