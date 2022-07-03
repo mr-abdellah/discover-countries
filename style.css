@@ -30,7 +30,9 @@ body {
 .countries {
   /* margin-bottom: 8rem; */
   display: flex;
-
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
   font-size: 2rem;
   opacity: 0;
   transition: opacity 1s;
@@ -134,6 +136,7 @@ h1 {
 
 #country {
   padding: 2% 5%;
+  margin-bottom: 5%;
 }
 
 #country::placeholder {
