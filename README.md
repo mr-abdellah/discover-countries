@@ -13,7 +13,7 @@ or
 
 ### Clone it in your local machine using GIT
 to get a local copy , clone the repository using git clone
-(https://github.com/mr-abdellah/discover-countries/.git)
+[TAP HERE](https://github.com/mr-abdellah/discover-countries.git)
 
 > Discover Countries: plain JavaScript with objects and modules and API
 
