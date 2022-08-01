@@ -2,7 +2,7 @@
 
 In this project, we built a basic website about discovering countries 
 
-# # Do you wanna try it ? no problem just enter here : (https://mr-abdellah.github.io/discover-countries/)
+# # Do you wanna try it ? no problem just enter here : [LIVE DEMO](https://mr-abdellah.github.io/discover-countries/)
 
 ## Getting Started
 
